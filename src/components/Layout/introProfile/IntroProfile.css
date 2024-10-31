@@ -1,5 +1,5 @@
 .main-container{
-width: 100Vw;
+width: 120Vw;
 height: auto;
 padding: 1rem;
 display: flex;
@@ -10,16 +10,16 @@ border-bottom:  double 4px;
 
 .main-container > div {
 
-    width: 50%;
-    height: 100%;
+    width: 40%;
+    height: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
      
 }
 .container-img >img {
-width: 20rem;
-height: 20rem;
+width: 13rem;
+height: 13rem;
 border-radius: 50%;
 box-shadow: 0 0 15px #fff;
 
@@ -28,7 +28,7 @@ box-shadow: 0 0 15px #fff;
 .personal-intro > p{
 text-align: center;
 font-size: 1.6rem;
-color: blanchedalmond;
-font-weight: 600;
+color: rgb(205, 255, 236);
+font-weight: 700;
 
 }
