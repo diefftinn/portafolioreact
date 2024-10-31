@@ -1,9 +1,3 @@
-import React from "react"
-
-export const ItemNavbar = ({text, link}) => {
-  return (
-    <li>
-      <a href={link}>{text}</a>
-    </li>
-  )
-}
+import React from 'react';
+ 
+    export const ItemNavbar = ({content}) => <li className="navbar-item"><a href="/">{content}</a></li>
