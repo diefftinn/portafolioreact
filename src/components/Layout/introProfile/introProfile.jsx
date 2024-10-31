@@ -13,7 +13,13 @@ export const IntroProfile = () => {
    <ImgComponent src={logo} alt= 'logo'/>
     </div>
      <div className="personal-intro">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque expedita nam accusantium blanditiis dolor voluptates. Nam suscipit, non doloremque eveniet hic, quis voluptas qui illo, culpa tenetur delectus. Sequi, est!</p>
+      <p>Soy una persona que intento comprometerme
+        con el aprendizaje continuo, especialmente 
+        en el ámbito de la tecnología y el 
+         de software. Me disfruto explorando nuevas herramientas
+          y lenguajes de programación, con un enfoque  en encontrar soluciones
+           prácticas que me permitan ver el impacto directo de mi 
+           desarrollo como persona. </p>
      </div>
     </div>
     

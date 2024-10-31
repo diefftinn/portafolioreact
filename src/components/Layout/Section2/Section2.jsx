@@ -9,8 +9,8 @@ export const Section2 =  () =>{
         <div className="container-section2">
        <ImgComponent src= {logojs} alt={logojs}/>
     <p>
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis in quae doloremque quod animi incidunt asperiores illum alias, 
-    quas nulla consectetur eius sit impedit reiciendis iste quis eum iusto. Vel.
+     Uno de los esenarios como la programacion permite conecer varias facetas 
+     
     </p>
     <button>generar</button>
 </div>
