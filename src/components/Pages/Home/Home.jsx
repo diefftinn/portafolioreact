@@ -1,6 +1,8 @@
 import React from 'react'
 import { Header } from '../../Layout/Header/Header'
-import { Section } from '../../Layout/Section/section'
+import { Section}from '../../Layout/Section/Section'
+
+
 import { IntroProfile } from '../../Layout/IntroProfile/IntroProfile'
 import { Section2 } from '../../Layout/Section2/Section2'
 
