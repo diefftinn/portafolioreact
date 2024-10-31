@@ -4,6 +4,7 @@ import { ItemNavbar } from '../../UI/ItemNavbar/ItemNavbar'
 export const NavItems = () => {
 return(
 <nav className="navbar">
+<h1 className="navbar-title">Diego Fernando Tintiango</h1>
 <ul className="navbar-list">
 <ItemNavbar content= 'Quien soy'/>
 <ItemNavbar content='Acerca de Mi' />
